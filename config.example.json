@@ -1,0 +1,31 @@
+{
+    "contractData": {
+        "ownerAddress": "cd2a3d9f938e13cd947ec05abc7fe734df8dd826",
+        "periodLength": 3600,
+        "amountToPay": 1
+    },
+    "publicKeysByNetwork": {
+        "development": ["0x0368fd0a659e0e1e56752b093f9ef2bf529f0ba0c336b05660d1739c5803c48d74",
+                        "0x0385f60a249ebad9b736499f72114c32a40aa4fc213dd71a3051a0b72d73812647",
+                        "0x03115116d980d5f02c0ae98a2374598df0969c96f5f7cad6ac559020ef57eac249"],
+        
+        "regtest": ["0x02cd53fc53a07f211641a677d250f6de99caf620e8e77071e811a28b3bcddf0be1", 
+                    "0x0362634ab57dae9cb373a5d536e66a8c4f67468bbcfb063809bab643072d78a124",
+                    "0x03c5946b3fbae03a654237da863c9ed534e0878657175b132b8ca630f245df04db"],
+
+        "testnet": ["0x02afc230c2d355b1a577682b07bc2646041b5d0177af0f98395a46018da699b6da",
+                    "0x0344a3c38cd59afcba3edcebe143e025574594b001700dec41e59409bdbd0f2a09", 
+                    "0x034844a99cd7028aa319476674cc381df006628be71bc5593b8b5fdb32bb42ef85", 
+                    "0x039a060badbeb24bee49eb2063f616c0f0f0765d4ca646b20a88ce828f259fcdb9"],
+
+        "mainnet": ["0x027319afb15481dbeb3c426bcc37f9a30e7f51ceff586936d85548d9395bcc2344",
+                    "0x0294c817150f78607566e961b3c71df53a22022a80acbb982f83c0c8baac040adc",
+                    "0x02a9c6848e302193179ce6479516c2d97f6967e1365c707e3b9d3e0cb683ccb822",
+                    "0x03250c11be0561b1d7ae168b1f59e39cbc1fd1ba3cf4d2140c1a365b2723a2bf93",
+                    "0x0372cd46831f3b6afd4c044d160b7667e8ebf659d6cb51a825a3104df6ee0638c6",
+                    "0x03ae72827d25030818c4947a800187b1fbcc33ae751e248ae60094cc989fb880f6",
+                    "0x03b53899c390573471ba30e5054f78376c5f797fda26dde7a760789f02908cbad2",
+                    "0x03b65cd7c22e70c0823882c6e71ac2c279ed31cbe29cb4a1c00572ce539c0c4573",
+                    "0x03ecd8af1e93c57a1b8c7f917bd9980af798adeb0205e9687865673353eb041e8d"]
+    }
+}
